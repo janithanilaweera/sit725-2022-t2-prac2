@@ -6,17 +6,21 @@
   "scripts": {
     "start": "node server.js"
   },
-   "repository": {
+  "repository": {
     "type": "git",
-    "url": "git+https://github.com/xuqun123/sit725-2022-t2-prac2.git"
+    "url": "git+https://github.com/janithanilaweera/sit725-2022-t2-prac2.git"
   },
   "author": "janitha",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xuqun123/sit725-2022-t2-prac2/issues"
+    "url": "https://github.com/janithanilaweera/sit725-2022-t2-prac2/issues"
   },
-  "homepage": "https://github.com/xuqun123/sit725-2022-t2-prac2#readme",
+  "homepage": "https://github.com/janithanilaweera/sit725-2022-t2-prac2#readme",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "devDependencies": {},
+  "keywords": [
+    "express"
+  ]
 }
